@@ -7,7 +7,7 @@
         name: "findDuplicates",
         allowUsers: ["cleidigh", "usernamehw", "gjsjohnmurray", "IllusionMH"],
         action: "comment",
-        comment: "Potential duplicates:\n${potentialDuplicates}",
+        comment: "Potential duplicates:\n${potentialDuplicates}", sxc
       },
     ],
 }
